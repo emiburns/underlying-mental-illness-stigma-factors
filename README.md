@@ -46,9 +46,6 @@ data (produces ‘survey\_one\_data\_clean.csv’)
     perceived by participants with resulting components from Study 1a
     pca (warm/likeable, competent, and dangerous)
 
-  - ‘survey\_one\_data\_cleaning\_functions.py’: functions utilized in
-    survey\_one\_data\_cleaning.ipynb
-
 ## Main Findings
 
 Principal factor analyses in Study 1a revealed three underlying
